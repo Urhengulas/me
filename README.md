@@ -17,3 +17,4 @@ It may also serve for people interested in me. Be it friends, potential business
 ## signpost
 * [my curriculum vitae](CV.pdf) _(as of 25.01.2020)_
 * [my person](me.md) _(as of 25.01.2020)_
+* [blog](blog/README.md)
