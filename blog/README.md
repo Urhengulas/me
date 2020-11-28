@@ -1,5 +1,8 @@
 # blog
 
+**[/usr/bin/ld: cannot find -lpq](./rust_diesel_linking_fuckup.md)**
+29.11.2020
+
 **[Google Summer of Code 2020 - Second part](./gsoc_2020_2.md)**
 28.11.2020
 
