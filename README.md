@@ -15,6 +15,6 @@ Out of an egoistic feeling, I decided to create this repository, to store variou
 It may also serve for people interested in me. Be it friends, potential business partners or just curious human beings.
 
 ## signpost
-* [my curriculum vitae](./hemmann.CV.pdf) _(as of 17.07.2020)_
+* [my curriculum vitae](./hemmann.CV.pdf) _(as of 02.12.2020)_
 * [my person](me.md) _(as of 25.01.2020)_
 * [blog](blog/README.md)
