@@ -1,5 +1,8 @@
 # blog
 
+**[Rocket from Scratch #1 – The fellowship of the rocket 🚀](./rocket-from-scratch-1.md)**
+14.05.2021
+
 **[/usr/bin/ld: cannot find -lpq](./rust_diesel_linking_fuckup.md)**
 29.11.2020
 
